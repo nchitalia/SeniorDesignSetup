@@ -16,7 +16,7 @@ from metavision_core.event_io import EventsIterator
 from metavision_sdk_core import PeriodicFrameGenerationAlgorithm
 from metavision_sdk_ui import EventLoop, BaseWindow, Window, UIAction, UIKeyEvent
 
-accumulation_time_us = 5000
+accumulation_time_us = 10000
 
 
 def parse_args():
