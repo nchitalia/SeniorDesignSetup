@@ -1,3 +1,4 @@
 *.raw
 /sample_code/red_event_cube_05_2020
 /sample_code/red_histogram_05_2020
+/Models/*
